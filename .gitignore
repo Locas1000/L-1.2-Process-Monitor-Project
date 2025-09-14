@@ -1,0 +1,34 @@
+# IDE files
+.idea/
+*.iml
+
+# Compiled binaries
+process-runner/main
+test
+
+# Build folders
+cmake-build-*/
+build/
+bin/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.o
+*.obj
+*.exe
+*.log
+*.tmp
+
+# Backup files
+*~
+
+# Project/editor-specific
+/shelf/
+/workspace.xml
+/httpRequests/
+/dataSources/
+/dataSources.local.xml
+
